@@ -5,7 +5,10 @@
 // then click the URL that is emitted to the Output tab of the console
 
 echo 'Chaturas Web Page!';
-
+echo  '<ul>
+        <h3>Labs</h3>
+        <li><a href="./Labs/Lab1/index.html"><strong>Lab 1</strong></a></li>
+       </ul>'
 ?>
 </body>
 </html>
