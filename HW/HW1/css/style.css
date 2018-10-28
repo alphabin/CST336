@@ -85,3 +85,10 @@ h3{
         font-family: 'Pacifico', cursive;
         
 }
+
+.interImg{
+    width: 60%;
+}
+.draggImg{
+    width: 100%;
+}
