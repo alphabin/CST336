@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title> Chatura Ahangama : Personal Website</title>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <meta name="description" content="Hw1 is a simple website">
+    <!-- CDN fir CSS frame work -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <nav>
+        <div class="nav-wrapper">
+
+            <ul class="right hide-on-med-and-down">
+                <li><a><i id="navButtonTrigger"class="material-icons">eject</i></a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <ul id="nav-mobile" class="sidenav sidenav-fixed" style="transform: translateX(0%);">
+        <li class="progress">
+            <div class="indeterminate"></div>
+        </li>
+        <li class="bold"><a href="index.html" class="waves-effect waves-teal">Home</a></li>
+        <li class="bold"><a href="amazon.html" class="waves-effect waves-teal">AWS Rekogintion</a></li>
+        <li class="bold active"><a href="azure.html" class="waves-effect waves-teal">Microsoft Azure Face API</a></li>
+        <li class="bold"><a href="google.html" class="waves-effect waves-teal">Google Vision</a></li>
+        <li>
+             <img draggable="true" width="100%" id="picMask" src="https://gluonhq.com/wp-content/uploads/2018/03/azure.png"></img>
+        </li>
+
+    </ul>
+
+    <main>
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col s4">
+                    <span id="fullScreen" class="center-align">
+                 <img  width="100%" src="https://csumb.edu/sites/default/files/styles/profile_large/public/photo_1_6.jpg?itok=N4I4g9Wl"></img>
+
+         </span>
+                </div>
+                <div class="col s8 ">
+
+                    <div class="card-panel"  id="azure">
+                        <h3 class="center">Microsoft</h3>
+                    </div>
+
+                    <div class="card blue-grey darken-1">
+                        <div class="card-content white-text">
+                            <span class="card-title">Azure (Face API)</span>
+                            <p>This is the newest in the market as far as face detections api's, it lets you gain analytics for images as well videos. 
+                            </br> The Cost : Relatively more expensive <a href="https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/"> Link to the Cost </a>
+                            </br> Free Tier Free	20 transactions per minute	Face Detection Face Verification Face Identification Face Grouping Similar Face Search30,000 transactions free per month</p>
+                        </div>
+
+                        <div class="card-action" id="azureSubmenu">
+                            <a href="https://aws.amazon.com/rekognition/">Go to Microsoft Face API</a>
+                        </div>
+
+                    </div>
+                </div>
+
+    </main>
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script type="text/javascript" src="./js/script.js"></script>
+
+</body>
+
+</html>

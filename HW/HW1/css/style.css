@@ -1,0 +1,87 @@
+
+body
+{
+    background-color: black;
+}
+
+#picMask {
+    position: absolute;
+    z-index: -1;
+    text-align: center;
+}
+
+
+li a:hover
+{
+    background-color: yellow !important;
+}
+
+.progress{
+    width: 100%;
+    
+}
+ #fullScreen{
+     visibility: hidden;
+ }
+.card-panel{
+    color: white;
+}
+
+#amazon{
+    background-color: #f7981f;
+    
+}
+#azure{
+    background-color: #04abee;
+    
+}
+
+#google{
+   background-color: rgb(138, 177, 245);
+    
+}
+
+#landing{
+    background-color: #002a4e !important;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.card .card-title {
+    text-align: center;
+}
+
+.bold .active{
+     background-color: yellow !important;
+    
+}
+
+.sidenav li.active {
+    background-color: #039be570 !important;;
+}
+
+#subMenu
+{
+    background-color: white;
+}
+
+#awsSubmenu
+{
+   background-color: blue;
+}
+#azureSubmenu
+{
+   background-color:  red;
+}
+
+#googleSubmenu
+{
+   background-color:green;
+}
+
+h3{
+        font-family: 'Pacifico', cursive;
+        
+}
