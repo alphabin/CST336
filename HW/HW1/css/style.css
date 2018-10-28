@@ -49,7 +49,7 @@ p {
     font-family: "Times New Roman", Times, serif;
 }
 
-.card .card-title {
+.card .card-title, .card-action {
     text-align: center;
 }
 
