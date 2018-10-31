@@ -1,0 +1,21 @@
+[31-Oct-2018 04:35:27 UTC] PHP Warning:  include(inc/function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 6
+[31-Oct-2018 04:35:27 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 04:35:27 UTC] PHP Warning:  include(): Failed opening 'inc/function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 6
+[31-Oct-2018 04:35:27 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 04:35:27 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 11
+[31-Oct-2018 04:35:27 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 04:35:29 UTC] PHP Warning:  include(inc/function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 6
+[31-Oct-2018 04:35:29 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 04:35:29 UTC] PHP Warning:  include(): Failed opening 'inc/function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 6
+[31-Oct-2018 04:35:29 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 04:35:29 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 11
+[31-Oct-2018 04:35:29 UTC] PHP Stack trace:
+[31-Oct-2018 04:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[31-Oct-2018 05:19:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/CST336/Labs/Lab2/inc/function.php on line 46
+[31-Oct-2018 05:19:24 UTC] PHP Stack trace:
+[31-Oct-2018 05:19:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
