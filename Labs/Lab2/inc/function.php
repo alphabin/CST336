@@ -18,7 +18,7 @@
                         case 3;
                             $symbol = "bar";
                             break;
-                        case 4:
+/*                        case 4:
                             $symbol = "machine";
                             break;
                         case 5:
@@ -26,7 +26,7 @@
                             break;
                         case 6:
                             $symbol = "grapes";
-                            break;
+                            break;*/
                     }
                     echo "<img id='reel$pos'  src='img/$symbol.png' alt='$symbol' title='".ucfirst($symbol)."' width='70' >";
                 }
@@ -53,9 +53,9 @@
                                          $soundfile = "./inc/WonSomething.mp3";
                                         break;
                                     case 3:
-                                    case 4:
+ /*                                 case 4:
                                     case 5:
-                                    case 6:
+                                    case 6:*/
                                          $totalPoints = 900 ;
                                          $soundfile = "./inc/WonSomething.mp3";
                                         break;
@@ -78,7 +78,7 @@
                 function play()
                 {
                  for($i = 1; $i<4; $i++){
-                     ${"randomValue".$i} = rand(0,6);
+                     ${"randomValue".$i} = rand(0,3);
                      displaySymbol(${"randomValue".$i},$i);
                  }
                  displayPoints($randomValue1,$randomValue2,$randomValue3);
