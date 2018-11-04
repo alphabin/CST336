@@ -1,7 +1,26 @@
 
+html{
+  background-color: black;
+}
+
+
+body {
+    margin: 10%;
+}
+
+
 .container{
     border-style: solid;
     border-color: red;
+}
+
+input{
+  color: white;
+  
+}
+
+input:focus { 
+    background-color: yellow;
 }
 
 #canvas { 
@@ -16,6 +35,18 @@
     margin-top: 40px;
 }
 
+#canvas { 
+  background-color: white !important;
+}
+
+.retro{
+   margin: 10%;
+}
+
+button{
+  color:yellow !important;
+}
+
 h1
 {
         font-family: 'Pacifico', cursive;
@@ -24,7 +55,6 @@ h1
 }
 
 .container {
-  
   background-image: url('../inc/bak.png');
 }
 
