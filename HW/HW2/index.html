@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Plinko Board Game</title>
+    
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    
+
+</head>
+
+<body>
+    <div id="main" class="container">
+<div class="row">
+    <div class="wrapper col s12">
+        <div class="inner-wrapper">
+            <div class="landscape"></div>
+        </div>
+
+    <span class="retro">
+      <span class="letter">P</span>
+            <span class="letter">l</span>
+            <span class="letter">i</span>
+            <span class="letter">n</span>
+            <span class="letter">k</span>
+            <span class="letter">o</span>
+         </span>
+        
+        </div>
+        <div class="triangle"></div>
+    </div>
+        <canvas class="z-depth-5 col s5 offset-s4"  id='canvas' width='200' height='200'></canvas>
+       
+        <form  method="post" name="postForm">
+            <ul>
+                <li class="col s4 offset-s4 center">
+                   
+                    <button class="btn waves-effect waves-light">UserName:
+                     
+                    </button>
+                    <input type="text" name="userName" id="user-input" placeholder="Chatura">
+                    
+                    <button class="btn waves-effect waves-light">Column to Drop the Disk (1-4):
+                        
+                    </button>
+                    <input type="text" name="colNumber" id="colm-input" placeholder="1">
+                    <span class="throw_error"></span>
+                  
+                </li>
+            </ul>
+            <input class="col s4 offset-s4  waves-light btn center" type="submit" value="Send" >
+            </input>
+              <blockquote class="col s12 z-depth-5" id="success"> </blockquote>
+        </form>
+        
+    </div>
+
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous">
+    </script>
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+            
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>

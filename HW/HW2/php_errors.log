@@ -1,0 +1,31 @@
+[03-Nov-2018 18:40:56 UTC] PHP Fatal error:  Call to undefined function getValidRand() in /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php on line 27
+[03-Nov-2018 18:40:56 UTC] PHP Stack trace:
+[03-Nov-2018 18:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:0
+[03-Nov-2018 18:40:56 UTC] PHP   2. GameBoard->getGameCurrent() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:103
+[03-Nov-2018 18:40:56 UTC] PHP   3. GameRuntime->startGame() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:69
+[03-Nov-2018 18:41:06 UTC] PHP Fatal error:  Call to undefined function getValidRand() in /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php on line 27
+[03-Nov-2018 18:41:06 UTC] PHP Stack trace:
+[03-Nov-2018 18:41:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:0
+[03-Nov-2018 18:41:06 UTC] PHP   2. GameBoard->getGameCurrent() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:103
+[03-Nov-2018 18:41:06 UTC] PHP   3. GameRuntime->startGame() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:69
+[03-Nov-2018 18:43:08 UTC] PHP Warning:  rand() expects parameter 1 to be long, string given in /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php on line 10
+[03-Nov-2018 18:43:08 UTC] PHP Stack trace:
+[03-Nov-2018 18:43:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:0
+[03-Nov-2018 18:43:08 UTC] PHP   2. GameBoard->getGameCurrent() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:103
+[03-Nov-2018 18:43:08 UTC] PHP   3. GameRuntime->startGame() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:69
+[03-Nov-2018 18:43:08 UTC] PHP   4. GameRuntime->getValidRand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:27
+[03-Nov-2018 18:43:08 UTC] PHP   5. rand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:10
+[03-Nov-2018 18:43:14 UTC] PHP Warning:  rand() expects parameter 1 to be long, string given in /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php on line 10
+[03-Nov-2018 18:43:14 UTC] PHP Stack trace:
+[03-Nov-2018 18:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:0
+[03-Nov-2018 18:43:14 UTC] PHP   2. GameBoard->getGameCurrent() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:103
+[03-Nov-2018 18:43:14 UTC] PHP   3. GameRuntime->startGame() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:69
+[03-Nov-2018 18:43:14 UTC] PHP   4. GameRuntime->getValidRand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:27
+[03-Nov-2018 18:43:14 UTC] PHP   5. rand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:10
+[03-Nov-2018 18:43:59 UTC] PHP Warning:  rand() expects parameter 1 to be long, string given in /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php on line 10
+[03-Nov-2018 18:43:59 UTC] PHP Stack trace:
+[03-Nov-2018 18:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:0
+[03-Nov-2018 18:43:59 UTC] PHP   2. GameBoard->getGameCurrent() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:103
+[03-Nov-2018 18:43:59 UTC] PHP   3. GameRuntime->startGame() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:69
+[03-Nov-2018 18:43:59 UTC] PHP   4. GameRuntime->getValidRand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:27
+[03-Nov-2018 18:43:59 UTC] PHP   5. rand() /home/ubuntu/workspace/CST336/HW/HW2/inc/function.php:10
