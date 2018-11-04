@@ -1,5 +1,4 @@
 
-
 .container{
     border-style: solid;
     border-color: red;
@@ -24,7 +23,10 @@ h1
         background-color: yellow;
 }
 
-
+.container {
+  
+  background-image: url('../inc/bak.png');
+}
 
 /* Creds to Code pen for the style https://codepen.io/jackphilippi/pen/LjezQX*/
 @font-face {

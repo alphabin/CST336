@@ -105,11 +105,11 @@
                      {
                         drawOn(Object.keys(dataSet[i]), i + 1,true);
                         if(Object.keys(dataSet[i]) == randWin)
-                            $('#success').fadeIn(1000).append('<p><h1>Winner '+ name+ '! You Landed on the Correct Box Winner !</h1></p>');
+                            $('#success').fadeIn(1000).append('<p><h1> ******Winner '+ name+ '! You Landed on the Correct Box Winner !*******</h1></p>');
                         else
                         {
                     
-                            $('#success').fadeIn(1000).append('<p><h1>You looose '+ name+ '! You incorrect Box, Pick a Different Column or Try again !</h1></p>');
+                            $('#success').fadeIn(1000).append('<p><h1>You looose '+ name+ '! You Landed on a incorrect Box,Try again or Refresh the page !</h1></p>');
                
                         }
                      }

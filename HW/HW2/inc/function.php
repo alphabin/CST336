@@ -72,13 +72,9 @@
                      
                  }
                  
-                 $game = new GameBoard();
-                 $game->initBoard();
-                 //Get the Column from post request
+               $game = new GameBoard();
+               $game->initBoard();
 
-               // echo "|here Winners-->";echo json_encode($game->getLeaderBoard());echo "<--|here|<br><br>";
-               // echo "|here Game Array-->";echo json_encode(($game->getGameCurrent()));echo "<--|here|";
-               
                $errors = array(); //To store errors
                $form_data = array(); //Pass back the data to `form.php`
 
