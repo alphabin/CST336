@@ -1,6 +1,7 @@
 
 html{
   background-color: black;
+  background-image: url("../inc/bak2.jpeg");
 }
 
 
@@ -16,7 +17,6 @@ body {
 
 input{
   color: white;
-  
 }
 
 input:focus { 
