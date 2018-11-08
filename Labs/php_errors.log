@@ -45,3 +45,21 @@
 [07-Nov-2018 07:21:58 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 64
 [07-Nov-2018 07:21:58 UTC] PHP Stack trace:
 [07-Nov-2018 07:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[07-Nov-2018 09:45:38 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 79
+[07-Nov-2018 09:45:38 UTC] PHP Stack trace:
+[07-Nov-2018 09:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[08-Nov-2018 02:52:35 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 92
+[08-Nov-2018 02:52:36 UTC] PHP Stack trace:
+[08-Nov-2018 02:52:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[08-Nov-2018 03:11:03 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 92
+[08-Nov-2018 03:11:04 UTC] PHP Stack trace:
+[08-Nov-2018 03:11:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[08-Nov-2018 03:12:49 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 37
+[08-Nov-2018 03:14:21 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 37
+[08-Nov-2018 03:39:53 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 79
+[08-Nov-2018 03:39:53 UTC] PHP Stack trace:
+[08-Nov-2018 03:39:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[08-Nov-2018 03:44:58 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 79
+[08-Nov-2018 03:45:00 UTC] PHP Stack trace:
+[08-Nov-2018 03:45:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab3/index.php:0
+[08-Nov-2018 03:51:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/CST336/Labs/Lab3/index.php on line 91
