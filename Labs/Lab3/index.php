@@ -36,8 +36,7 @@
             body{
                 background-image: url('<?=$backgroundImage?>');
                 background-repeat: no-repeat;
-                background-size: 100% 600px;
-                background-position: left bottom; 
+                background-size: 100% 100%;
             }
         </style>
         
@@ -120,9 +119,8 @@
                     }
                 ?>
             </div>
-            <?php } ?>
             
-             <a class="carousel-control-prev" href="#carousel-example-generic" role="button" data-slide="prev">
+              <a class="carousel-control-prev" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon " aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
               </a>
@@ -130,6 +128,9 @@
                 <span class="carousel-control-next-icon " aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
               </a>
+            <?php } ?>
+            
+           
         </div>
         
         
