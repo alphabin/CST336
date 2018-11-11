@@ -18,7 +18,7 @@
             <h1 id="headerJumbo" class="display-4">Welcome to the SSH Terminal Command Center</h1>
         <div class="container">
             <div class="row">
-                <div class="col-lg-6  col-sm-12 center">
+                <div class="col-lg-4  col-sm-12 center">
             <form method="get" target="my-iframe" action="clientPHP.php">
               <table >
                     <tr>
@@ -81,7 +81,7 @@
              </table>
             </form>
                 </div>
-                <div class="col-lg-6  col-sm-12">
+                <div class="col-lg-8  col-sm-12">
                     <iframe name="my-iframe" width="100%" height="100%" src="clientPHP.php"></iframe>
                 </div>
             </div>
