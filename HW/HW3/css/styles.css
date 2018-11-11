@@ -40,5 +40,14 @@ pre{
 
 .jumbotron-fluid {
     margin: 10% 10px;
-    
 }
+
+table{
+    margin: auto;
+}
+
+td{
+  width: 35%;
+  height: 20%;
+}
+
