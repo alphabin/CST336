@@ -1,0 +1,44 @@
+#headerJumbo{
+    text-align: center;
+    outline:blue dashed 10px;
+    padding: 10px 10px;
+    margin: 30px 30px;
+    font-variant: small-caps;
+    font-family: 'Bangers', cursive;
+    color: rgb(0 ,255 ,0) ;
+    background-color: black;
+}
+.errorMessage
+{
+    background-color: red;
+    color: white;
+}
+body
+{
+    background-color: black;
+
+}
+pre{
+    
+    background: green !important;
+}
+
+#resetButton{
+    background-color: red;
+    color:white;
+}
+
+#selectForm, #textCLI{
+    color: rgb(0 ,255 ,0) !important;
+    background-color: black  !important;
+}
+
+#ipAddr{
+    color: red !important;
+    background-color: black  !important;
+}
+
+.jumbotron-fluid {
+    margin: 10% 10px;
+    
+}

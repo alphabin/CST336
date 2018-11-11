@@ -1992,3 +1992,257 @@
 [11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
 [11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
 [11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 03:48:55 UTC] PHP Fatal error:  Call to undefined method PHPSSHWrapper::error_reporting() in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 32
+[11-Nov-2018 03:48:55 UTC] PHP Stack trace:
+[11-Nov-2018 03:48:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:48:55 UTC] PHP   2. PHPSSHWrapper->Debugging() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:78
+[11-Nov-2018 03:49:30 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 03:49:30 UTC] PHP Stack trace:
+[11-Nov-2018 03:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:49:30 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:82
+[11-Nov-2018 03:49:30 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:17
+[11-Nov-2018 03:49:30 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 03:49:30 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 03:49:30 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 03:49:30 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 03:49:30 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 03:49:30 UTC] PHP Stack trace:
+[11-Nov-2018 03:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:49:30 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:83
+[11-Nov-2018 03:49:30 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 03:49:30 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 03:49:30 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 03:49:30 UTC] PHP Stack trace:
+[11-Nov-2018 03:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:49:30 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:83
+[11-Nov-2018 03:49:30 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 03:49:30 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 03:49:30 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 03:49:30 UTC] PHP Stack trace:
+[11-Nov-2018 03:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:49:30 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:83
+[11-Nov-2018 03:49:30 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 03:49:30 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 03:50:21 UTC] PHP Fatal error:  Call to a member function Debugging() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 68
+[11-Nov-2018 03:50:21 UTC] PHP Stack trace:
+[11-Nov-2018 03:50:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:50:47 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 03:50:47 UTC] PHP Stack trace:
+[11-Nov-2018 03:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:50:47 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 03:50:47 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:17
+[11-Nov-2018 03:50:47 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 03:50:47 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 03:50:47 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 03:50:47 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 03:50:47 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 03:50:47 UTC] PHP Stack trace:
+[11-Nov-2018 03:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:50:47 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 03:50:47 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:52
+[11-Nov-2018 03:50:47 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 03:50:47 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 03:50:47 UTC] PHP Stack trace:
+[11-Nov-2018 03:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:50:47 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 03:50:47 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 03:50:47 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 03:50:47 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 03:50:47 UTC] PHP Stack trace:
+[11-Nov-2018 03:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:50:47 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 03:50:47 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 03:50:47 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 03:56:25 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 78
+[11-Nov-2018 03:56:25 UTC] PHP Stack trace:
+[11-Nov-2018 03:56:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:56:46 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 83
+[11-Nov-2018 03:57:00 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 78
+[11-Nov-2018 03:57:00 UTC] PHP Stack trace:
+[11-Nov-2018 03:57:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 03:57:34 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 78
+[11-Nov-2018 03:57:34 UTC] PHP Stack trace:
+[11-Nov-2018 03:57:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:00:01 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 04:00:01 UTC] PHP Stack trace:
+[11-Nov-2018 04:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:00:01 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:00:01 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:26
+[11-Nov-2018 04:00:01 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:00:01 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:00:01 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 04:00:01 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 04:00:01 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:00:01 UTC] PHP Stack trace:
+[11-Nov-2018 04:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:00:01 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:00:01 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 04:00:01 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:00:01 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:00:01 UTC] PHP Stack trace:
+[11-Nov-2018 04:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:00:01 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:00:01 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 04:00:01 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:00:01 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 04:00:01 UTC] PHP Stack trace:
+[11-Nov-2018 04:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:00:01 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:00:01 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 04:00:01 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 04:10:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:10:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:10:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:87
+[11-Nov-2018 04:10:08 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 04:10:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:10:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:10:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:10:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:87
+[11-Nov-2018 04:10:08 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 04:10:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:10:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 04:10:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:10:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:87
+[11-Nov-2018 04:10:08 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 04:10:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 04:18:20 UTC] PHP Fatal error:  Call to undefined method PHPSSHWrapper::debug() in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 88
+[11-Nov-2018 04:18:20 UTC] PHP Stack trace:
+[11-Nov-2018 04:18:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:32:33 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 04:32:33 UTC] PHP Stack trace:
+[11-Nov-2018 04:32:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:32:33 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:82
+[11-Nov-2018 04:32:33 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:19
+[11-Nov-2018 04:32:33 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:32:33 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:32:33 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 04:32:33 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 04:32:33 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:32:33 UTC] PHP Stack trace:
+[11-Nov-2018 04:32:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:32:33 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:32:33 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 04:32:33 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:32:33 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:32:33 UTC] PHP Stack trace:
+[11-Nov-2018 04:32:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:32:33 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:32:33 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 04:32:33 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:32:33 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 04:32:33 UTC] PHP Stack trace:
+[11-Nov-2018 04:32:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:32:33 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:32:33 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 04:32:33 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 04:33:08 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 04:33:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:33:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:33:08 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:82
+[11-Nov-2018 04:33:08 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:19
+[11-Nov-2018 04:33:08 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:33:08 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:33:08 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 04:33:08 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 04:33:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:33:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:33:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:33:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:33:08 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 04:33:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:33:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:33:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:33:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:33:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:33:08 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 04:33:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:33:08 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 04:33:08 UTC] PHP Stack trace:
+[11-Nov-2018 04:33:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:33:08 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:84
+[11-Nov-2018 04:33:08 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 04:33:08 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 04:50:45 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 04:50:45 UTC] PHP Stack trace:
+[11-Nov-2018 04:50:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:50:45 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:81
+[11-Nov-2018 04:50:45 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:19
+[11-Nov-2018 04:50:45 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:50:45 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 04:50:45 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 04:50:45 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 04:50:45 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:50:45 UTC] PHP Stack trace:
+[11-Nov-2018 04:50:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:50:45 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:50:45 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 04:50:45 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:50:45 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 04:50:45 UTC] PHP Stack trace:
+[11-Nov-2018 04:50:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:50:45 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:50:45 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:54
+[11-Nov-2018 04:50:45 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 04:50:45 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 04:50:45 UTC] PHP Stack trace:
+[11-Nov-2018 04:50:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 04:50:45 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:85
+[11-Nov-2018 04:50:45 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:56
+[11-Nov-2018 04:50:45 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 05:37:45 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 05:37:45 UTC] PHP Stack trace:
+[11-Nov-2018 05:37:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 05:37:45 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:95
+[11-Nov-2018 05:37:45 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:33
+[11-Nov-2018 05:37:45 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 05:37:45 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 05:37:45 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 05:37:45 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 05:39:07 UTC] PHP Notice:  Cannot connect to :22. Error 0. php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 1173
+[11-Nov-2018 05:39:07 UTC] PHP Stack trace:
+[11-Nov-2018 05:39:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 05:39:07 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:95
+[11-Nov-2018 05:39:07 UTC] PHP   3. Net_SSH2->login() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:33
+[11-Nov-2018 05:39:07 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232}() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 05:39:07 UTC] PHP   5. Net_SSH2->_login() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2232
+[11-Nov-2018 05:39:07 UTC] PHP   6. Net_SSH2->_connect() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:2248
+[11-Nov-2018 05:39:07 UTC] PHP   7. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:1173
+[11-Nov-2018 05:48:58 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 05:48:58 UTC] PHP Stack trace:
+[11-Nov-2018 05:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 05:48:58 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:113
+[11-Nov-2018 05:48:58 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:67
+[11-Nov-2018 05:48:58 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 05:48:58 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 05:48:58 UTC] PHP Stack trace:
+[11-Nov-2018 05:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 05:48:58 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:113
+[11-Nov-2018 05:48:58 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:68
+[11-Nov-2018 05:48:58 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 05:48:58 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 05:48:58 UTC] PHP Stack trace:
+[11-Nov-2018 05:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 05:48:58 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:113
+[11-Nov-2018 05:48:58 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:70
+[11-Nov-2018 05:48:58 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
+[11-Nov-2018 06:16:06 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 06:16:06 UTC] PHP Stack trace:
+[11-Nov-2018 06:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 06:16:06 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:115
+[11-Nov-2018 06:16:06 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:67
+[11-Nov-2018 06:16:06 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 06:16:06 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3182
+[11-Nov-2018 06:16:06 UTC] PHP Stack trace:
+[11-Nov-2018 06:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 06:16:06 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:115
+[11-Nov-2018 06:16:06 UTC] PHP   3. Net_SSH2->write() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:68
+[11-Nov-2018 06:16:06 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3182
+[11-Nov-2018 06:16:06 UTC] PHP Notice:  Operation disallowed prior to login() in /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php on line 3136
+[11-Nov-2018 06:16:06 UTC] PHP Stack trace:
+[11-Nov-2018 06:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 06:16:06 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:115
+[11-Nov-2018 06:16:06 UTC] PHP   3. Net_SSH2->read() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:70
+[11-Nov-2018 06:16:06 UTC] PHP   4. user_error() /home/ubuntu/workspace/CST336/HW/HW3/Net/SSH2.php:3136
