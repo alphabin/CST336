@@ -98,3 +98,1897 @@
 [03-Nov-2018 06:09:07 UTC] PHP Stack trace:
 [03-Nov-2018 06:09:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW2/index.php:0
 [03-Nov-2018 06:09:07 UTC] PHP   2. GameBoard->initGame() /home/ubuntu/workspace/CST336/HW/HW2/index.php:82
+[10-Nov-2018 23:42:51 UTC] PHP Fatal error:  Class 'File_ANSI' not found in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 11
+[10-Nov-2018 23:42:51 UTC] PHP Stack trace:
+[10-Nov-2018 23:42:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:44 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:44 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:44 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:44 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[10-Nov-2018 23:43:53 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[10-Nov-2018 23:43:53 UTC] PHP Stack trace:
+[10-Nov-2018 23:43:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[10-Nov-2018 23:43:53 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:18
+[10-Nov-2018 23:43:53 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:11:38 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:11:38 UTC] PHP Stack trace:
+[11-Nov-2018 00:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:11:38 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:31
+[11-Nov-2018 00:11:38 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:13:20 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:13:20 UTC] PHP Stack trace:
+[11-Nov-2018 00:13:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:13:20 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:13:20 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:14:41 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 28
+[11-Nov-2018 00:14:41 UTC] PHP Stack trace:
+[11-Nov-2018 00:14:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:15:01 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 28
+[11-Nov-2018 00:15:01 UTC] PHP Stack trace:
+[11-Nov-2018 00:15:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:22 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 00:17:22 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:17:22 UTC] PHP   2. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/index.php:32
+[11-Nov-2018 00:17:22 UTC] PHP   3. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 00:17:58 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 28
+[11-Nov-2018 00:17:58 UTC] PHP Stack trace:
+[11-Nov-2018 00:17:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:44:47 UTC] PHP Fatal error:  Call to a member function write() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 34
+[11-Nov-2018 00:44:47 UTC] PHP Stack trace:
+[11-Nov-2018 00:44:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:44:53 UTC] PHP Fatal error:  Call to a member function write() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 34
+[11-Nov-2018 00:44:53 UTC] PHP Stack trace:
+[11-Nov-2018 00:44:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 00:45:42 UTC] PHP Fatal error:  Call to a member function write() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/index.php on line 34
+[11-Nov-2018 00:45:42 UTC] PHP Stack trace:
+[11-Nov-2018 00:45:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/index.php:0
+[11-Nov-2018 01:42:33 UTC] PHP Fatal error:  Call to a member function write() on a non-object in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 52
+[11-Nov-2018 01:42:33 UTC] PHP Stack trace:
+[11-Nov-2018 01:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:42:33 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:43:37 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 52
+[11-Nov-2018 01:43:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:43:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:44:04 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 52
+[11-Nov-2018 01:44:04 UTC] PHP Stack trace:
+[11-Nov-2018 01:44:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:44:04 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:44:16 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 52
+[11-Nov-2018 01:44:16 UTC] PHP Stack trace:
+[11-Nov-2018 01:44:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:44:16 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:46:01 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 20
+[11-Nov-2018 01:46:01 UTC] PHP Stack trace:
+[11-Nov-2018 01:46:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:46:01 UTC] PHP   2. PHPSSHWrapper->Connect() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:62
+[11-Nov-2018 01:46:31 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 15
+[11-Nov-2018 01:46:31 UTC] PHP Stack trace:
+[11-Nov-2018 01:46:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:46:31 UTC] PHP   2. PHPSSHWrapper->__construct() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:37 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:37 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:37 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:37 UTC] PHP Fatal error:  Class 'Session' not found in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 65
+[11-Nov-2018 01:48:37 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:48:41 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:63
+[11-Nov-2018 01:48:41 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:55
+[11-Nov-2018 01:48:41 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:48:41 UTC] PHP Fatal error:  Class 'Session' not found in /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php on line 65
+[11-Nov-2018 01:48:41 UTC] PHP Stack trace:
+[11-Nov-2018 01:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:50:29 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:50:29 UTC] PHP Stack trace:
+[11-Nov-2018 01:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:50:29 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:50:29 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:50:29 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:51:50 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:51:50 UTC] PHP Stack trace:
+[11-Nov-2018 01:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:51:50 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:51:50 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:51:50 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
+[11-Nov-2018 01:52:02 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php on line 302
+[11-Nov-2018 01:52:02 UTC] PHP Stack trace:
+[11-Nov-2018 01:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:0
+[11-Nov-2018 01:52:02 UTC] PHP   2. PHPSSHWrapper->RunCmd() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:61
+[11-Nov-2018 01:52:02 UTC] PHP   3. File_ANSI->appendString() /home/ubuntu/workspace/CST336/HW/HW3/clientPHP.php:53
+[11-Nov-2018 01:52:02 UTC] PHP   4. array_fill() /home/ubuntu/workspace/CST336/HW/HW3/File/ANSI.php:302
