@@ -64,6 +64,7 @@ class PHPSSHWrapper {
     {
             $strvar = print_r($inputWord,true);
             $ansi = new File_ANSI();
+            $this->sshConnection->read();
             $this->sshConnection->write($strvar);
             $this->sshConnection->write("\n");
             $this->sshConnection->setTimeout(5);
