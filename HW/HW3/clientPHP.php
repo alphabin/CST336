@@ -67,6 +67,7 @@ class PHPSSHWrapper {
             $this->sshConnection->read();
             $this->sshConnection->write($strvar);
             $this->sshConnection->write("\n");
+            echo "<div class=\"errorMessage\"> Sending the Request! </div>";
             $this->sshConnection->setTimeout(5);
             $ansi->appendString($this->sshConnection->read());
             return $ansi->getScreen(); // outputs HTML
@@ -75,10 +76,6 @@ class PHPSSHWrapper {
 }
 
 $myTerm =null;
-
-
-
-
 
 if(!isset($_GET['ip']))
 {
