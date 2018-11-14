@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    position: relative;
+    outline-style: groove;
+    margin-left: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 30px 60px;
+    background-color: #ff31000a;
+    border-radius: 25px;
+}
+
+form {
+    padding: 2% 20%;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    background-color: #00ceff24;
+    border-radius: 50px;
+    
+}
+
+input {
+    padding: 3% 3%;
+    font-size: 20px;
+    text-align: center;
+    color: darkmagenta;
+    border-radius: 50px;
+}
+
+
+select {
+    font-size: 20px;
+    padding: 10% 10%;
+    border-radius: 5px;
+    margin: 3%;
+    background-color: #ff31000a;
+    
+}
