@@ -26,9 +26,9 @@
             echo "<input type='hidden' name='itemImage' value='$itemImage'>";
                 
             if($_POST['itemId'] == $itemId)
-                echo "<td><button class='btn btn-warning'>Added</button></td>";
+                echo "<td><button class='btn btn-success'>Added</button></td>";
             else
-                echo "<td><button class='btn btn-success'>Add</button></td>";
+                echo "<td><button class='btn btn-warning'>Add</button></td>";
             echo "</form>";
             
             echo "</tr>";        
