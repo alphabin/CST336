@@ -3,9 +3,11 @@
     {
         global $items;
         if(isset($items))
+        {
+        echo "<table class='table'>";
         foreach($items as $item)
         {
-            echo "<table class='table'>";
+         
             $itemName = $item['name'];
             $itemPrice = $item['salePrice'];
             $itemImage = $item['thumbnailImage'];
@@ -30,6 +32,7 @@
             echo "</form>";
             
             echo "</tr>";        
+         }
         }
         echo "</table>";
     }
