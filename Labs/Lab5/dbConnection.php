@@ -1,6 +1,6 @@
 <?php
 
-function getDatabaseConnection($dbName) {
+function getDatabaseConnection($dbName = 'ottermart') {
 
 $host = "localhost";
 $dbname = $dbName;

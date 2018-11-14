@@ -4,21 +4,19 @@
     
     $conn = getDatabaseConnection("ottermart");
     
-    $productId = $_GET['productId'];
+    $productId = $_GET['productId']; //Get from the Get request
     
     $sql = "SELECT * 
-            FROM om_product
-            NATURAL JOIN om_purchase
-            WHERE productId = :pId";
+                    FROM om_product
+                    NATURAL JOIN om_purchase
+                    WHERE productId = :pId";
             
     $np = array();
     $np[":pId"] = $productId;
     
-    
     $stmt = $conn->prepare($sql);
     $stmt->execute($np);
     $records = $stmt->fetchAll(PDO::FETCH_ASSOC);
-    
     
     echo $records[0]['productName'] . "<br/>";
     echo "<img src='" . $records[0]['productImage'] . "' width='200'/><br/>";

@@ -3,7 +3,7 @@
     
     include 'dbConnection.php';
     
-    $conn = getDatabaseConnection("ottermart");
+    $conn = getDatabaseConnection("ottermart"); //Starts the Db connection
     
     function displayCategories() {
         global $conn;
@@ -14,14 +14,12 @@
         $stmt->execute();
         $records = $stmt->fetchAll(PDO::FETCH_ASSOC);
         
+        //DO db query then get the query and update the categories
         foreach ($records as $record) {
-            
             echo "<option value='".$record["catId"]."' >" . $record["catName"] . "</option>";
-            
         }
         
     }
-    
     function displaySearchResults(){
         global $conn;
         
@@ -35,21 +33,30 @@
             
             if (!empty($_GET['product'])) { //checks whether user has typed something in the "Product" text box
                  $sql .=  " AND productName LIKE :productName";
-                 $namedParameters[":productName"] = "%" . $_GET['product'] . "%";
+                 $namedParameters[":productName"] = "%" . $_GET['product'] . "%"; //Like
+            }
+            
+            if (!empty($_GET['product'])) { 
+                 $sql .=  " OR lower(productDescription) LIKE :productName";
+                 $namedParameters[":productName"] = "%" . $_GET['product'] . "%" ; //contains any case in the decirption
+            }
+            //For Descirption
+            if (!empty($_GET['description'])) { 
+                 $sql .=  " AND productName LIKE :productName";
+                 $namedParameters[":productName"] = "%" . $_GET['product'] . "%"; //Like
             }
                   
-                  
-             if (!empty($_GET['category'])) { //checks whether user has typed something in the "Product" text box
+             if (!empty($_GET['category'])) { 
                  $sql .=  " AND catId = :categoryId";
                  $namedParameters[":categoryId"] =  $_GET['category'];
              }    
             
-             if (!empty($_GET['priceFrom'])) { //checks whether user has typed something in the "Product" text box
+             if (!empty($_GET['priceFrom'])) {
                  $sql .=  " AND price >= :priceFrom";
                  $namedParameters[":priceFrom"] =  $_GET['priceFrom'];
              }
              
-            if (!empty($_GET['priceTo'])) { //checks whether user has typed something in the "Product" text box
+            if (!empty($_GET['priceTo'])) {
                  $sql .=  " AND price <= :priceTo";
                  $namedParameters[":priceTo"] =  $_GET['priceTo'];
              }
@@ -67,7 +74,6 @@
                  
                  
              }
-            //echo $sql; //for debugging purposes
             
              $stmt = $conn->prepare($sql);
              $stmt->execute($namedParameters);
@@ -82,7 +88,6 @@
         }
         
     }
-
     
 ?>
 
