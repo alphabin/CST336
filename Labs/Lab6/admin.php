@@ -50,7 +50,7 @@
         </form>
         
          <form action="logout.php">
-            <input type="submit"  value="Logout"/>
+            <input type="submit"  id="addButton" class='btn btn-secondary'  type="submit" value="Logout"/>
         </form>
 
         
