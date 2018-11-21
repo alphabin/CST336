@@ -82,7 +82,7 @@
                 echo "<td> <a class='btn btn-primary' href='updateProduct.php?productId=".$record['productId']."'>Update</a></td>";
                 
                 echo "<form action='deleteProduct.php' onsubmit='return confirmDelete()'>";
-                echo "<input type='hidden' name='productId' value=" . $record['productId']."/>";
+                echo "<input type='hidden' name='productId' value='" . $record['productId']."'/>";
                 echo "<td><input type='submit' class='btn btn-danger' value='Remove'></td>";
                 
             }
