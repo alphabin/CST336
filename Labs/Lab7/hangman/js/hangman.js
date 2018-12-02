@@ -3,7 +3,8 @@ var selectedHint = "";
 var board = []; // empty array
 var remainingGuesses = 6;
 var alreadyDisplayedHint = false;
-
+var subArr = [];
+var getValues = sessionStorage.getItem("guessed");
 var words = [{ word: "snake", hint: "It's a reptile" }, 
              { word: "monkey", hint: "It's a mammal" }, 
              { word: "beetle", hint: "It's an insect" }];
@@ -136,10 +137,16 @@ function endGame(win) {
     
     if (win) {
         $('#won').show();
+        subArr.push(selectedWord);
         $("#guessedWord").append("<li>"+selectedWord+"</li>")
+       
+        sessionStorage.setItem('guessed', subArr);
     } else {
         $('#lost').show();
-            $("#guessedWord").append("<li>"+selectedWord+"</li>")
+        subArr.push(selectedWord);
+        $("#guessedWord").append("<li>"+selectedWord+"</li>")
+         sessionStorage.setItem('guessed', selectedWord);
+          sessionStorage.setItem('guessed', subArr);
          $('#hintButton').hide();
     }
 }
