@@ -100,15 +100,15 @@ function loop() {
     }
     else if(rgNewDirection == 'left'){
         if(rgx < -30) rgx= 590;
-        redGhost[0].style.left = rgx + GHOST_SPEED + 'px';
+        redGhost[0].style.left = rgx - GHOST_SPEED + 'px';
     }
      else if(rgNewDirection == 'down'){
         if(rgx > 320) rgy= -30;
-        redGhost[0].style.left = rgx + GHOST_SPEED + 'px';
+        redGhost[0].style.left = rgy + GHOST_SPEED + 'px';
     }
      else if(rgNewDirection == 'up'){
         if(rgx < -30) rgy= 390;
-        redGhost[0].style.left = rgx + GHOST_SPEED + 'px';
+        redGhost[0].style.left = rgy - GHOST_SPEED + 'px';
     }
     }while(hitWall(redGhost));
     
@@ -129,10 +129,10 @@ function loop() {
 function loadComplete() {
     output = $("#output").html("page loaded");
     pacman = $("#pacman");
-    pacman.css({ 'left': '230px', 'top': '240','width' : '33px','height' : '33px' }); //JQuery
+    pacman.css({ 'left': '280px', 'top': '160','width' : '32px','height' : '32px' }); //JQuery
     
     redGhost = $("#redGhost");
-    redGhost.css({ 'left': '280px', 'top': '240','width' : '33px','height' : '33px' }); //JQuery
+    redGhost.css({ 'left': '280px', 'top': '240','width' : '32px','height' : '32px' }); //JQuery
     
     loopTimer = setInterval(loop, 70);
     //inside wall
