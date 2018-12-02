@@ -3,8 +3,9 @@ var pacman;
 var loopTimer;
 var numLoops = 0;
 const PACMAN_SPEED = 10;
-const GHOST_SPEED = 5;
+const GHOST_SPEED = 10;
 var redGhost;
+var greenGhost;
 /*var upArrowDown = false;
 var downArrowDown = false;
 var leftArrowDown = false;
@@ -12,6 +13,7 @@ var rightArrowDown = false;*/
 var direction = 'right';
 var walls = new Array();
 var rgDirection;
+var ggDirection;
 
 function hitWall(element){
     var hit = false;
@@ -40,7 +42,7 @@ function loop() {
     if (direction=='down') {
         var pacmanY = parseFloat(pacman[0].style.top) + PACMAN_SPEED;
         if(!hitWall(pacman)){
-        if (pacmanY > 320) pacmanY = -30;
+        if (pacmanY > 380) pacmanY = -30;
            pacman.css('top', pacmanY + 'px');
         }
     }
@@ -57,7 +59,7 @@ function loop() {
         var pacmanX = parseFloat(pacman[0].style.left) + PACMAN_SPEED;
         if(!hitWall(pacman))
         {
-         if(pacmanX  > 520) pacmanX = -30;
+         if(pacmanX  > 580) pacmanX = -30;
          pacman.css('left', pacmanX + 'px');
             
         }
@@ -70,52 +72,15 @@ function loop() {
         pacman.css('top', originalTop);
     }
     
-    var rgx = parseInt(redGhost[0].style.left);
-    var rgy = parseInt(redGhost[0].style.top);
-    
-    var rgNewDirection;
-    var rgOppositeDirection;
-    
-    if(rgDirection == 'left') rgOppositeDirection = 'right';
-    else if(rgDirection == 'right') rgOppositeDirection = 'left';
-    else if(rgDirection == 'down') rgOppositeDirection = 'up';
-    else if(rgDirection == 'up') rgOppositeDirection = 'down';
-    
-    do{
-        redGhost[0].style.left = rgx + 'px';
-        redGhost[0].style.top = rgy + 'px';
-    
-    do{
-        var r= Math.floor(Math.random()*4);
-        if(r==0) rgNewDirection = 'right';
-        else if(r==1) rgNewDirection = 'left';
-        else if(r==2) rgNewDirection = 'down';
-        else if(r==3) rgNewDirection = 'up';
-        
-    }while( rgNewDirection ==  rgOppositeDirection);
-    
-    if(rgNewDirection == 'right'){
-        if(rgx > 520) rgx= -30;
-        redGhost[0].style.left = rgx + GHOST_SPEED + 'px';
-    }
-    else if(rgNewDirection == 'left'){
-        if(rgx < -30) rgx= 590;
-        redGhost[0].style.left = rgx - GHOST_SPEED + 'px';
-    }
-     else if(rgNewDirection == 'down'){
-        if(rgx > 320) rgy= -30;
-        redGhost[0].style.left = rgy + GHOST_SPEED + 'px';
-    }
-     else if(rgNewDirection == 'up'){
-        if(rgx < -30) rgy= 390;
-        redGhost[0].style.left = rgy - GHOST_SPEED + 'px';
-    }
-    }while(hitWall(redGhost));
-    
-    rgDirection = rgNewDirection;
-    
+   moveRedGhost();
+   movegreenGhost();
   
    if(hittest(pacman, redGhost))
+    {
+      output.html("You Died");
+      clearInterval(loopTimer);
+    }
+      if(hittest(pacman, greenGhost))
     {
       output.html("You Died");
       clearInterval(loopTimer);
@@ -123,33 +88,115 @@ function loop() {
  
 }
 
+function moveRedGhost(){
+    var rgx = parseInt(redGhost[0].style.left);
+    var rgy = parseInt(redGhost[0].style.top);
+    
+    var rgNewDirection;
+    var rgOppositeDirection;
+    
+    if(rgDirection== 'left') rgOppositeDirection = 'right';
+    else if(rgDirection== 'right') rgOppositeDirection = 'left';
+    else if(rgDirection== 'down') rgOppositeDirection= 'up';
+    else if(rgDirection== 'up') rgOppositeDirection = 'down';
+    
+    do{
+        redGhost[0].style.left = rgx + 'px';
+        redGhost[0].style.top = rgy + 'px';
+    
+     do{
+        var r= Math.floor(Math.random()*4);
+        if(r==0) rgNewDirection = 'right';
+        else if(r==1) rgNewDirection = 'left';
+        else if(r==2) rgNewDirection = 'down';
+        else if(r==3) rgNewDirection = 'up';
+    }while( rgNewDirection ==  rgOppositeDirection);
+    
+    if(rgNewDirection == 'right'){
+        if(rgx > 590) rgx= -30;
+        redGhost[0].style.left = rgx + GHOST_SPEED + 'px';
+    }
+    else if(rgNewDirection == 'left'){
+        if(rgx < -30) rgx= 590;
+        redGhost[0].style.left = rgx - GHOST_SPEED + 'px';
+    }
+     else if(rgNewDirection == 'down'){
+        if(rgy > 390) rgy= -30;
+        redGhost[0].style.top = rgy + GHOST_SPEED + 'px';
+    }
+     else if(rgNewDirection == 'up'){
+        if(rgy < -30) rgy= 390;
+        redGhost[0].style.top = rgy - GHOST_SPEED + 'px';
+    }
+    
+    }while(hitWall(redGhost));
+    
+  
+    rgDirection = rgNewDirection;
+    
+}
 
-
+function movegreenGhost(){
+    var rgx = parseInt(greenGhost[0].style.left);
+    var rgy = parseInt(greenGhost[0].style.top);
+    
+    var rgNewDirection;
+    var rgOppositeDirection;
+    
+    if(ggDirection== 'left') rgOppositeDirection = 'right';
+    else if(ggDirection== 'right') rgOppositeDirection = 'left';
+    else if(ggDirection== 'down') rgOppositeDirection= 'up';
+    else if(ggDirection== 'up') rgOppositeDirection = 'down';
+    
+    do{
+        greenGhost[0].style.left = rgx + 'px';
+        greenGhost[0].style.top = rgy + 'px';
+    
+     do{
+        var r= Math.floor(Math.random()*4);
+        if(r==0) rgNewDirection = 'right';
+        else if(r==1) rgNewDirection = 'left';
+        else if(r==2) rgNewDirection = 'down';
+        else if(r==3) rgNewDirection = 'up';
+    }while( rgNewDirection ==  rgOppositeDirection);
+    
+    if(rgNewDirection == 'right'){
+        if(rgx > 590) rgx= -30;
+        greenGhost[0].style.left = rgx + GHOST_SPEED + 'px';
+    }
+    else if(rgNewDirection == 'left'){
+        if(rgx < -30) rgx= 590;
+        greenGhost[0].style.left = rgx - GHOST_SPEED + 'px';
+    }
+     else if(rgNewDirection == 'down'){
+        if(rgy > 390) rgy= -30;
+        greenGhost[0].style.top = rgy + GHOST_SPEED + 'px';
+    }
+     else if(rgNewDirection == 'up'){
+        if(rgy < -30) rgy= 390;
+        greenGhost[0].style.top = rgy - GHOST_SPEED + 'px';
+    }
+    
+    }while(hitWall(greenGhost));
+    
+  
+    ggDirection = rgNewDirection;
+}
 
 function loadComplete() {
     output = $("#output").html("page loaded");
     pacman = $("#pacman");
-    pacman.css({ 'left': '280px', 'top': '160','width' : '32px','height' : '32px' }); //JQuery
+    pacman.css({ 'left': '280px', 'top': '240','width' : '32px','height' : '32px' }); //JQuery
     
     redGhost = $("#redGhost");
-    redGhost.css({ 'left': '280px', 'top': '240','width' : '32px','height' : '32px' }); //JQuery
+    redGhost.css({ 'left': '280px', 'top': '160','width' : '32px','height' : '32px' }); //JQuery
+    
+    greenGhost = $("#greenGhost");
+    greenGhost.css({ 'left': '280px', 'top': '160','width' : '32px','height' : '32px' }); //JQuery
     
     loopTimer = setInterval(loop, 70);
     //inside wall
     //createWall(200,280,200,40);
-    
-    //top
-    createWall(-20,0,640,40);
-    
-    //left
-    createWall(0,0,40,180);
-    createWall(0,220,40,180);
-    
-      //right
-    createWall(560,0,40,180);
-    createWall(560,220,40,180);
-    //bottom
-    createWall(-20,360,640,40);
     
     createWall(240, 200, 120, 40);
     createWall(240, 280, 120, 40);
@@ -160,8 +207,17 @@ function loadComplete() {
     createWall(400, 240, 40, 160);
     createWall(400, 0, 40, 120);
     createWall(80, 80, 40, 40);
-    createWall(160, 0, 40, 120);
+    createWall(480, 80, 40, 40);
     createWall(160, 160, 40, 40);
+    createWall(400, 160, 40, 40);
+    createWall(240, 80, 40, 80);
+    createWall(320, 80, 40, 80);
+    createWall(-20, 0, 640, 40);
+    createWall(0, 0, 40, 180);
+    createWall(0, 220, 40, 180);
+    createWall(560, 0, 40, 180);
+    createWall(560, 220, 40, 180);
+    createWall(-20, 360, 640, 40);
     
     
   
