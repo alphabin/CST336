@@ -539,3 +539,108 @@ Stack trace:
 #0 /home/ubuntu/workspace/CST336/Labs/Lab6/deleteProduct.php(9): PDOStatement->execute()
 #1 {main}
   thrown in /home/ubuntu/workspace/CST336/Labs/Lab6/deleteProduct.php on line 9
+[05-Dec-2018 05:25:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/header.php on line 2
+[05-Dec-2018 05:25:21 UTC] PHP Stack trace:
+[05-Dec-2018 05:25:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 05:26:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/header.php on line 2
+[05-Dec-2018 05:26:11 UTC] PHP Stack trace:
+[05-Dec-2018 05:26:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:21 UTC] PHP Warning:  include(cara.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 25
+[05-Dec-2018 06:21:21 UTC] PHP Stack trace:
+[05-Dec-2018 06:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:21 UTC] PHP Warning:  include(): Failed opening 'cara.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 25
+[05-Dec-2018 06:21:21 UTC] PHP Stack trace:
+[05-Dec-2018 06:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:45 UTC] PHP Warning:  include(../api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:21:45 UTC] PHP Stack trace:
+[05-Dec-2018 06:21:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:45 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:21:45 UTC] PHP Warning:  include(): Failed opening '../api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:21:45 UTC] PHP Stack trace:
+[05-Dec-2018 06:21:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:45 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:21:45 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 3
+[05-Dec-2018 06:21:45 UTC] PHP Stack trace:
+[05-Dec-2018 06:21:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:21:45 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:20 UTC] PHP Warning:  include(../api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:22:20 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:20 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:20 UTC] PHP Warning:  include(): Failed opening '../api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:22:20 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:20 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:20 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 3
+[05-Dec-2018 06:22:20 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:20 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:52 UTC] PHP Warning:  include(/api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:22:52 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:52 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:52 UTC] PHP Warning:  include(): Failed opening '/api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:22:52 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:52 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:22:52 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 3
+[05-Dec-2018 06:22:52 UTC] PHP Stack trace:
+[05-Dec-2018 06:22:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:22:52 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:25
+[05-Dec-2018 06:24:47 UTC] PHP Warning:  include(/api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:24:47 UTC] PHP Stack trace:
+[05-Dec-2018 06:24:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:24:47 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:30
+[05-Dec-2018 06:24:47 UTC] PHP Warning:  include(): Failed opening '/api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:24:47 UTC] PHP Stack trace:
+[05-Dec-2018 06:24:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:24:47 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:30
+[05-Dec-2018 06:24:47 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 3
+[05-Dec-2018 06:24:47 UTC] PHP Stack trace:
+[05-Dec-2018 06:24:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:24:47 UTC] PHP   2. include() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:30
+[05-Dec-2018 06:31:09 UTC] PHP Warning:  include(../api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 2
+[05-Dec-2018 06:31:09 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:31:09 UTC] PHP Warning:  include(): Failed opening '../api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 2
+[05-Dec-2018 06:31:09 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:31:09 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 3
+[05-Dec-2018 06:31:09 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:31:38 UTC] PHP Warning:  include(/api/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 2
+[05-Dec-2018 06:31:38 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:31:38 UTC] PHP Warning:  include(): Failed opening '/api/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 2
+[05-Dec-2018 06:31:38 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:31:38 UTC] PHP Fatal error:  Call to undefined function getImages() in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php on line 3
+[05-Dec-2018 06:31:38 UTC] PHP Stack trace:
+[05-Dec-2018 06:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:03 UTC] PHP Warning:  include(../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 3
+[05-Dec-2018 06:32:03 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:03 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:32:03 UTC] PHP Warning:  include(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 3
+[05-Dec-2018 06:32:03 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:03 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:32:03 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 4
+[05-Dec-2018 06:32:03 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:03 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:32:53 UTC] PHP Warning:  include(../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 3
+[05-Dec-2018 06:32:53 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:53 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:32:53 UTC] PHP Warning:  include(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 3
+[05-Dec-2018 06:32:53 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:53 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:32:53 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 4
+[05-Dec-2018 06:32:53 UTC] PHP Stack trace:
+[05-Dec-2018 06:32:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0
+[05-Dec-2018 06:32:53 UTC] PHP   2. getImages() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:3
+[05-Dec-2018 06:37:20 UTC] PHP Fatal error:  Cannot redeclare getImages() (previously declared in /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:4) in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getImages.php on line 2
+[05-Dec-2018 06:37:20 UTC] PHP Stack trace:
+[05-Dec-2018 06:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/index.php:0

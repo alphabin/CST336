@@ -1,0 +1,32 @@
+[05-Dec-2018 04:45:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION pets.CUDATE does not exist' in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getPetInfo.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/CST336/Labs/Lab8/api/getPetInfo.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/CST336/Labs/Lab8/api/getPetInfo.php on line 8
+[05-Dec-2018 06:01:34 UTC] PHP Warning:  include(../apu/getImages.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:01:34 UTC] PHP Stack trace:
+[05-Dec-2018 06:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:01:34 UTC] PHP Warning:  include(): Failed opening '../apu/getImages.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 2
+[05-Dec-2018 06:01:34 UTC] PHP Stack trace:
+[05-Dec-2018 06:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:07:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 4
+[05-Dec-2018 06:07:09 UTC] PHP Stack trace:
+[05-Dec-2018 06:07:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:08:17 UTC] PHP Stack trace:
+[05-Dec-2018 06:08:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:09:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:09:13 UTC] PHP Stack trace:
+[05-Dec-2018 06:09:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:10:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:10:05 UTC] PHP Stack trace:
+[05-Dec-2018 06:10:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:10:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:10:29 UTC] PHP Stack trace:
+[05-Dec-2018 06:10:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:12:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:12:53 UTC] PHP Stack trace:
+[05-Dec-2018 06:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
+[05-Dec-2018 06:13:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php on line 5
+[05-Dec-2018 06:13:34 UTC] PHP Stack trace:
+[05-Dec-2018 06:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab8/inc/cara.php:0
