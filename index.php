@@ -17,13 +17,12 @@ echo  '<ul>
         <li><a href="./Labs/Lab8/index.php"><strong>Lab 8 : (php/mysql/jquery/ajax) Pet adoption</strong></a></li>
         
         <h3>HomeWork</h3>
-        <li><a href="./HW/HW1/index.html"><strong>Hw 1</strong></a></li>
-        <li><a href="./HW/HW2/index.html"><strong>Hw 2</strong></a></li>
-        <li><a href="./HW/HW3/index.php"><strong>Hw 3</strong></a></li>
-        <li><a href="./HW/HW4/index.html"><strong>Hw 4</strong></a></li>
-        
-         <h3>Final</h3>
-         <li><a href="./Final/index.php"><strong>Final</strong></a></li>
+        <li><a href="./HW/HW1/index.html"><strong>Hw 1 : (html/materialize) My interests</strong></a></li>
+        <li><a href="./HW/HW2/index.html"><strong>Hw 2 : (html/materialize/php/jquery/ajax)Plinko Game</strong></a></li>
+        <li><a href="./HW/HW3/index.php"><strong>Hw 3 : (bootstrap/php/openSSL)Web SSH Command Center</strong></a></li>
+        <li><a href="./HW/HW4/index.html"><strong>Hw 4 : (html/javascript/jquery)Pacman</strong></a></li>
+        <h3>Final</h3>
+        <li><a href="./Final/index.php"><strong>Final : (php/mysql/javascript/jquery)Electric Web Market</strong></a></li>
        </ul>'
 ?>
 </body>
