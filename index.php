@@ -4,13 +4,26 @@
 // Press the 'Run' button on the top to start the web server,
 // then click the URL that is emitted to the Output tab of the console
 
-echo 'Chaturas Web Page!';
+echo 'Chaturas Project-Index Page!';
 echo  '<ul>
         <h3>Labs</h3>
         <li><a href="./Labs/Lab1/index.html"><strong>Lab 1</strong></a></li>
         <li><a href="./Labs/Lab2/index.php"><strong>Lab 2</strong></a></li>
-         <h3>HomeWork</h3>
+        <li><a href="./Labs/Lab3/index.php"><strong>Lab 3</strong></a></li>
+        <li><a href="./Labs/Lab4/index.php"><strong>Lab 4</strong></a></li>
+        <li><a href="./Labs/Lab5/index.php"><strong>Lab 5</strong></a></li>
+        <li><a href="./Labs/Lab6/admin.php"><strong>Lab 6</strong></a></li>
+        <li><a href="./Labs/Lab7/hangman/index.html"><strong>Lab 7</strong></a></li>
+        <li><a href="./Labs/Lab8/index.php"><strong>Lab 8</strong></a></li>
+        
+        <h3>HomeWork</h3>
         <li><a href="./HW/HW1/index.html"><strong>Hw 1</strong></a></li>
+        <li><a href="./HW/HW2/index.html"><strong>Hw 2</strong></a></li>
+        <li><a href="./HW/HW3/index.php"><strong>Hw 3</strong></a></li>
+        <li><a href="./HW/HW4/index.html"><strong>Hw 4</strong></a></li>
+        
+         <h3>Final</h3>
+         <li><a href="./Final/index.php"><strong>Final</strong></a></li>
        </ul>'
 ?>
 </body>
