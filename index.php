@@ -7,14 +7,14 @@
 echo 'Chaturas Project-Index Page!';
 echo  '<ul>
         <h3>Labs</h3>
-        <li><a href="./Labs/Lab1/index.html"><strong>Lab 1</strong></a></li>
-        <li><a href="./Labs/Lab2/index.php"><strong>Lab 2</strong></a></li>
-        <li><a href="./Labs/Lab3/index.php"><strong>Lab 3</strong></a></li>
-        <li><a href="./Labs/Lab4/index.php"><strong>Lab 4</strong></a></li>
-        <li><a href="./Labs/Lab5/index.php"><strong>Lab 5</strong></a></li>
-        <li><a href="./Labs/Lab6/admin.php"><strong>Lab 6</strong></a></li>
-        <li><a href="./Labs/Lab7/hangman/index.html"><strong>Lab 7</strong></a></li>
-        <li><a href="./Labs/Lab8/index.php"><strong>Lab 8</strong></a></li>
+        <li><a href="./Labs/Lab1/index.html"><strong>Lab 1 : (html) About page </strong></a></li>
+        <li><a href="./Labs/Lab2/index.php"><strong>Lab 2 : (php) slot machine</strong></a></li>
+        <li><a href="./Labs/Lab3/index.php"><strong>Lab 3 : (php/webApi) Stock image search</strong></a></li>
+        <li><a href="./Labs/Lab4/index.php"><strong>Lab 4 : (php/Walmart API) Walmart Search</strong></a></li>
+        <li><a href="./Labs/Lab5/index.php"><strong>Lab 5 : (php/mysql) Basic Store</strong></a></li>
+        <li><a href="./Labs/Lab6/admin.php"><strong>Lab 6 : (php/mysql) Advanced Store with Login</strong></a></li>
+        <li><a href="./Labs/Lab7/hangman/index.html"><strong>Lab 7 : (Javascript) Hangman</strong></a></li>
+        <li><a href="./Labs/Lab8/index.php"><strong>Lab 8 : (php/mysql/jquery/ajax) Pet adoption</strong></a></li>
         
         <h3>HomeWork</h3>
         <li><a href="./HW/HW1/index.html"><strong>Hw 1</strong></a></li>
